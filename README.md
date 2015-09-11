@@ -1,2 +1,0 @@
-# freecodecamp
-frecodecamp.org
